@@ -8,10 +8,17 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,iop.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,cambridge.com
+DOMAIN-SUFFIX,taylorfrancis.com
+DOMAIN-SUFFIX,begellhouse.com
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,aiaa.org
 ######################################
 # Academic Web Service Routing Ends
 ######################################
